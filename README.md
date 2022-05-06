@@ -6,6 +6,8 @@ desktop mascot app with VRM
   - Three.js
   - three-vrm
   - ...?
+  - Babylon.js ?
+    - [Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best](https://www.babylonjs.com/)
 - 名前
   - 候補
     - dtm_vrm
